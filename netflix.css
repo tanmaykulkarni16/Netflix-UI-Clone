@@ -9,7 +9,6 @@ body{
 }
 
 .mainNetflixContainer{
-    /* border: 2px solid red; */
     position: relative;
     padding: 1rem 2rem;
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(Assets/Images/bg.jpg);
@@ -21,18 +20,15 @@ body{
 }
 
 nav{
-    /* border: 2px solid green; */
     height: 20vh;
 }
 
 .upperNavbarSection{
-    /* border: 2px solid blue; */
     display: flex;
     height: 50%;
 }
 
 .upperNavbarLeftSection{
-    /* border: 2px solid red; */
     width: 50%;
 }
 
@@ -43,8 +39,7 @@ nav{
     margin-top: 5px;
 }
 
-.upperNavbarRightSection{
-    /* border: 2px solid green; */ 
+.upperNavbarRightSection{ 
     width: 50%;
 }
 
@@ -138,7 +133,7 @@ nav{
 }
 
 .start {
-    background-color: #e50914; /* Netflix red */
+    background-color: #e50914; 
     color: white;
     padding: 1rem 1rem;
     border: none;
@@ -152,7 +147,7 @@ nav{
 }
 
 .start:hover {
-    background-color: #b00610; /* Slightly darker red on hover */
+    background-color: #b00610; 
 }
 
 
@@ -257,9 +252,9 @@ nav{
   color: black;
   -webkit-text-stroke: 1px white;
   text-shadow:
-  0.5px 0.5px 0 white,    /* white outline fill for overlap */
-  4px 4px 0 black;    /* deep black drop shadow */
-  font-family: Arial, Helvetica, sans-serif; /* optional: heavy font */
+  0.5px 0.5px 0 white,    
+  4px 4px 0 black;    
+  font-family: Arial, Helvetica, sans-serif; 
   line-height: 1;
 }
 
@@ -308,13 +303,13 @@ nav{
 
 .arrow.left,
 .arrow.right {
-top: 35%; /* 👈 Adjust to vertically center properly */
+top: 35%; 
 transform: translateY(-50%);
 z-index: 10;
 }
 
 .arrow.left {
-left: 2rem; /* Adjust this to be inside the carousel */
+left: 2rem; 
 }
 
 .arrow.right {
@@ -346,10 +341,10 @@ border-radius: 15px;
 
 .card {
 background: linear-gradient(180deg, #1c1c2f 0%, #1a1e3a 100%);
-color: white; /* Text color */
-border-radius: 10px; /* Rounded corners */
-padding: 20px; /* Padding for content */
-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Shadow effect */
+color: white; 
+border-radius: 10px; 
+padding: 20px; 
+box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
 text-align: left;
 position: relative;
 min-height: 270px;
@@ -378,7 +373,7 @@ right: 1.5rem;
 
 .card:hover {
   transform: scale(1.02);
-  background-color: #2a2a2a; /* Slightly lighter on hover */
+  background-color: #2a2a2a; 
 }
 
 .faqSection {
@@ -440,13 +435,13 @@ right: 1.5rem;
 }
 
 .faqItem.open .faqAnswer {
-  max-height: 1000px; /* large enough for long answers */
+  max-height: 1000px; 
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
 
 .faqItem.open .icon {
-  transform: rotate(45deg); /* Turns + into × */
+  transform: rotate(45deg);
 }
 
 .faqAnswer {
@@ -498,7 +493,7 @@ right: 1.5rem;
 }
 
 .getStartedButton{
-  background-color: #e50914; /* Netflix red */
+  background-color: #e50914; 
   color: white;
   padding: 1rem 1rem;
   border: none;
