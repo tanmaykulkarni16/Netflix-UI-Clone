@@ -17,6 +17,14 @@ This is a **responsive clone of the Netflix India landing page**, developed usin
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
 
+## 📸 Screenshots
+
+![Screenshot 2025-06-07 084814](https://github.com/user-attachments/assets/75110f8c-04ae-4e63-bdea-eae90be7a504)
+
+![Screenshot 2025-06-07 084916](https://github.com/user-attachments/assets/bc6dd0e8-456b-49fe-bca7-9cd810ac4e76)
+
+![Screenshot 2025-06-07 084944](https://github.com/user-attachments/assets/6855cd2b-da2a-4aae-81f9-41583668fcb9)
+
 ## 🙌 Acknowledgements
 - Inspired by the official Netflix homepage.
 
